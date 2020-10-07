@@ -60,4 +60,3 @@ workflows:
           requires:
             - unit_tests
             - vuln_scan
-
